@@ -1,0 +1,11 @@
+.nav{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: aqua;
+    color: #040416;
+}
+.nav h1{
+    font-size: 20px;
+    padding: 1rem;
+}
